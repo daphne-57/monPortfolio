@@ -11,6 +11,7 @@
     <title>Document</title>
 </head>
 <body>
+    <?php require("menu.php"); ?>
     <?= $content ?>
 </body>
 </html>
